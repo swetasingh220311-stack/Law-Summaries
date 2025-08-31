@@ -4,3 +4,4 @@ torch
 sentencepiece
 PyPDF2==3.0.1
 reportlab==4.2.2
+python-dotenv
